@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "AdminDashboard";
+}
+
+<h2>Admin Dashboard</h2>
+Welcome @HttpContext.Current.User.Identity.Name
+@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("Logout", "Admin", FormMethod.Post, new { id = "LogoutForm" }))
+    {
+        <a href="javascript:document.getElementById('LogoutForm').submit()">Logout</a>
+    }
+
+}
+
