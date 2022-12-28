@@ -81,3 +81,7 @@ D:\Codes\IssueTrackerProject\obj\Debug\IssueTrackerProject.csproj.CoreCompileInp
 D:\Codes\IssueTrackerProject\obj\Debug\IssueTrackerProject.csproj.CopyComplete
 D:\Codes\IssueTrackerProject\obj\Debug\IssueTrackerProject.dll
 D:\Codes\IssueTrackerProject\obj\Debug\IssueTrackerProject.pdb
+D:\Codes\Coding\IssueTrackerProject\obj\Debug\IssueTrackerProject.csproj.AssemblyReference.cache
+D:\Codes\Coding\IssueTrackerProject\obj\Debug\IssueTrackerProject.csproj.CoreCompileInputs.cache
+D:\Codes\Coding\IssueTrackerProject\obj\Debug\IssueTrackerProject.dll
+D:\Codes\Coding\IssueTrackerProject\obj\Debug\IssueTrackerProject.pdb
